@@ -4,7 +4,6 @@ import pydeck as pdk
 import numpy as np
 import gspread
 from google.oauth2 import service_account
-import folium
 
 
 SCOPES = [
